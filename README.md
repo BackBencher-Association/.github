@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://via.placeholder.com/200x200.png?text=BB" alt="BackBencher Association Logo" width="200"/>
+  <img src="logo.png" alt="BackBencher Association Logo" width="200"/>
   <h1>BackBencher Association</h1>
   <p><em>Where the last row geniuses shape tomorrow's technology</em></p>
 </div>
